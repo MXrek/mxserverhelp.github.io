@@ -10,6 +10,7 @@
 ------------
 # 联系我们
 你可以通过[点击这里](https://shang.qq.com/wpa/qunwpa?idkey=c94c9018694578ff2c6ee406d87a13a0adeff09ab5c792aeecb568e0a706e00b "点击这里")联系我们，并注明（HC）
+
 ------------
 
 ##### MXrek 2019
