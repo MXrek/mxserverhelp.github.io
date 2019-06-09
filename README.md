@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# 欢迎来到MXserver帮助中心
+### 本网站旨在帮助游玩MXserver中出现的一些问题进行解答
+#### 更新日期：2019-06-09 19:37:35 星期日
+------------
 
-You can use the [editor on GitHub](https://github.com/MXrek/mxserverhelp.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# 问题列表
+### 暂无被发现的问题，你可以通过[点击这里](https://shang.qq.com/wpa/qunwpa?idkey=c94c9018694578ff2c6ee406d87a13a0adeff09ab5c792aeecb568e0a706e00b "点击这里")向我们反馈
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+------------
+# 联系我们
+你可以通过[点击这里](https://shang.qq.com/wpa/qunwpa?idkey=c94c9018694578ff2c6ee406d87a13a0adeff09ab5c792aeecb568e0a706e00b "点击这里")联系我们，并注明（HC）
+------------
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MXrek/mxserverhelp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##### MXrek 2019
+##### 感谢Github，Markdown
